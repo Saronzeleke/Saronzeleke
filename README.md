@@ -4,15 +4,15 @@
 I'm a passionate developer with a keen interest in software development, open source, and building impactful projects. I enjoy learning new technologies and applying them to solve real-world problems.
 
 ## 🔧 Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Django
+- **Languages:** Python,Javascript , jupyternotebook,Html,CSS
+- **Frameworks/Libraries:** React, Node.js, Django,Express-node-js
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, VS Code
 
 ## 🌱 Currently Learning
 - Advanced machine learning techniques
-- Cloud computing with AWS and Azure
-- DevOps practices and CI/CD pipelines
+- Deep learning 
+- Fullstack web developemnt
 - React toolikit
 
 ## 📈 GitHub Stats
