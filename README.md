@@ -1,19 +1,18 @@
-# Hi there, I'm Saronzeleke! 👋
+# Hi there, I'm  Saronzeleke! 👋
 
 ## About Me
-I'm a passionate developer with a keen interest in software development, open source, and building impactful projects. I enjoy learning new technologies and applying them to solve real-world problems.
+I'm a passionate Full-stack developer with a keen interest in software development, open source, and building impactful projects. I enjoy learning new technologies and applying them to solve real-world problems.
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python,Javascript , jupyternotebook,Html,CSS
 - **Frameworks/Libraries:** React, Node.js, Django,Express-node-js
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL
 - **Tools:** Git, VS Code
 
 ## 🌱 Currently Learning
 - Advanced machine learning techniques
 - Deep learning 
-- Fullstack web developemnt
-- React toolikit
+- NLP
 
 ## 📈 GitHub Stats
 ![Saronzeleke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saronzeleke&show_icons=true&theme=radical)
