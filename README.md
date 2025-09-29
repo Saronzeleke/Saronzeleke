@@ -1,44 +1,63 @@
-# Hi there, I'm  Saronzeleke! 👋
+# 👋 Hi, I'm Saronzeleke
 
-## About Me
-I'm a passionate Full-stack developer with a keen interest in software development, open source, and building impactful projects. I enjoy learning new technologies and applying them to solve real-world problems.
+## 🚀 Expert Data Scientist & Software Engineer
 
-## 🔧 Technologies & Tools
-- **Languages:** Python,Javascript , jupyternotebook,Html,CSS
-- **Frameworks/Libraries:** React, Node.js, Django,Express-node-js
-- **Databases:** MySQL
-- **Tools:** Git, VS Code
+I'm a seasoned Data Scientist and Full-Stack Software Engineer, passionate about leveraging AI, machine learning, and scalable software architecture to solve impactful real-world problems. With a proven track record in end-to-end product development, I specialize in building intelligent systems and deploying them at scale.
 
-## 🌱 Currently Learning
-- Advanced machine learning techniques
-- Deep learning 
-- NLP
+---
 
-## 📈 GitHub Stats
+### 🧠 Areas of Expertise
+- **Machine Learning & AI:** Deep Learning (CNNs, RNNs, Transformers), NLP, Computer Vision, Generative AI, Large Language Models (LLMs), Model Deployment (ML Ops)
+- **Software Engineering:** Full-stack development (React, Node.js, Django), API design, scalable backend systems, cloud-native development (AWS, Azure)
+- **Data Engineering:** Data pipelines, ETL, Big Data (Spark, Hadoop), Data Warehousing
+- **Web Technologies:** JavaScript, Python, HTML5, CSS3, RESTful APIs, Microservices
+- **DevOps & Tools:** Docker, Kubernetes, Git, CI/CD, VS Code
+
+---
+
+### 🏆 Notable Achievements & Projects
+
+#### [RAG_Website_Scrap_QA](https://github.com/Saronzeleke/RAG_Website_Scrap_QA)
+- Advanced Retrieval-Augmented Generation for website QA using NLP and deep learning.
+
+#### [QA_website](https://github.com/Saronzeleke/QA_website)
+- End-to-end QA automation for web platforms, integrating ML and robust backend.
+
+#### [Health_AI_Connect](https://github.com/Saronzeleke/Health_AI_Connect)
+- AI-driven health data analytics platform for predictive insights and visualization.
+
+#### [tk-build-vision](https://github.com/Saronzeleke/tk-build-vision)
+- Computer vision toolkit for custom ML model training and deployment.
+
+#### [Amharic-MT](https://github.com/Saronzeleke/Amharic-MT)
+- Machine translation for Amharic using neural networks and state-of-the-art language models.
+
+---
+
+### 🌱 Currently Exploring
+- Multi-modal AI and generative models
+- Advanced cloud-native ML deployment
+- AI for healthcare and social good
+
+---
+
+### 📈 GitHub Stats
 ![Saronzeleke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saronzeleke&show_icons=true&theme=radical)
 
-## 🏆 Top Languages
+### 🏅 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saronzeleke&layout=compact&theme=radical)
 
-## 📫 How to Reach Me
+---
+
+### 📫 Connect With Me
 - **Email:** sharonkuye369@gmail.com
 - **LinkedIn:** [Saronzeleke](https://www.linkedin.com/in/saronzeleke/)
 
+---
 
-## 💬 Let's Connect!
-Feel free to reach out if you have any questions, want to collaborate on a project, or just want to say hi! I'm always open to networking and learning from others in the community.
+### 💬 Let’s Collaborate!
+If you’re looking for an AI expert, ML engineer, or full-stack developer for your next project, feel free to reach out. Open to consulting, mentorship, and research collaborations.
 
-
-## 📂 Projects
-Here are some of my notable projects:
-
-### Project 1: [Portifolio](https://github.com/Saronzeleke/portifolio )
-Description of the project and what it does. Include technologies used and any relevant details.
-
-### Project 2: [e-commerce](https://github.com/Saronzeleke/e-commerce)
-Description of the project and what it does. Include technologies used and any relevant details.
-
-### Project 3: [Personal blog](https://github.com/Saronzelekblog/)
-Description of the project and what it does. Include technologies used and any relevant details.
+---
 
 Thank you for visiting my profile! 😊
