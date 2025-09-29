@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saronzeleke
 
-## 🚀 Expert Data Scientist & Software Engineer
+## 🚀 Data Scientist & Software Engineer
 
 I'm a seasoned Data Scientist and Full-Stack Software Engineer, passionate about leveraging AI, machine learning, and scalable software architecture to solve impactful real-world problems. With a proven track record in end-to-end product development, I specialize in building intelligent systems and deploying them at scale.
 
