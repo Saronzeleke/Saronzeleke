@@ -1,63 +1,74 @@
-# 👋 Hi, I'm Saronzeleke
+#Hell I'M  Saron Zeleke
+# Full Stack Developer | Software Engineer | AI/ML/DL Enthusiast
 
-## 🚀 Data Scientist & Software Engineer
+**Location:** Addis Ababa, Ethiopia  
+**GitHub:** [github.com/Saronzeleke](https://github.com/Saronzeleke)  
+**LinkedIn:** [www.linkedin.com/in/saron-zeleke-b3a208318](https://www.linkedin.com/in/saron-zeleke-b3a208318)  
+**Email:** Sharonkuye369@gmail.com  
+**Phone:** +251929535765  
+---
 
-I'm a seasoned Data Scientist and Full-Stack Software Engineer, passionate about leveraging AI, machine learning, and scalable software architecture to solve impactful real-world problems. With a proven track record in end-to-end product development, I specialize in building intelligent systems and deploying them at scale.
+## 🚀 Professional Summary
+
+Multidisciplinary Full Stack Developer, Data Scientist, and Software Engineer with advanced expertise in Artificial Intelligence, Machine Learning, Deep Learning, and modern web technologies. Adept at designing, building, and deploying scalable solutions with React, Node.js, Express.js, MySQL, and PostgreSQL. Passionate about delivering real-world impact in NLP, computer vision, automation, and quality control.
 
 ---
 
-### 🧠 Areas of Expertise
-- **Machine Learning & AI:** Deep Learning (CNNs, RNNs, Transformers), NLP, Computer Vision, Generative AI, Large Language Models (LLMs), Model Deployment (ML Ops)
-- **Software Engineering:** Full-stack development (React, Node.js, Django), API design, scalable backend systems, cloud-native development (AWS, Azure)
-- **Data Engineering:** Data pipelines, ETL, Big Data (Spark, Hadoop), Data Warehousing
-- **Web Technologies:** JavaScript, Python, HTML5, CSS3, RESTful APIs, Microservices
-- **DevOps & Tools:** Docker, Kubernetes, Git, CI/CD, VS Code
+## 📈 Visual Portfolio
+
+Explore creative highlights and visual AI work:  
+👉 [Pixverse Portfolio](https://app.pixverse.ai/home?detail=show&id=363385890923779&platform=web)
 
 ---
 
-### 🏆 Notable Achievements & Projects
-
-#### [RAG_Website_Scrap_QA](https://github.com/Saronzeleke/RAG_Website_Scrap_QA)
-- Advanced Retrieval-Augmented Generation for website QA using NLP and deep learning.
-
-#### [QA_website](https://github.com/Saronzeleke/QA_website)
-- End-to-end QA automation for web platforms, integrating ML and robust backend.
-
-#### [Health_AI_Connect](https://github.com/Saronzeleke/Health_AI_Connect)
-- AI-driven health data analytics platform for predictive insights and visualization.
-
-#### [tk-build-vision](https://github.com/Saronzeleke/tk-build-vision)
-- Computer vision toolkit for custom ML model training and deployment.
-
-#### [Amharic-MT](https://github.com/Saronzeleke/Amharic-MT)
-- Machine translation for Amharic using neural networks and state-of-the-art language models.
+## 🛠️ Core Technical Skills
+- **Frontend:** React.js, UI/UX Design
+- **Backend:** Node.js, Express.js, RESTful API Development
+- **Databases:** MySQL, PostgreSQL
+- **AI/ML/DL:** Python, Jupyter Notebook, Scikit-learn, TensorFlow, PyTorch
+- **Other:** Web scraping (Selenium), Quality Control Systems, GitHub Actions, Project Management
 
 ---
 
-### 🌱 Currently Exploring
-- Multi-modal AI and generative models
-- Advanced cloud-native ML deployment
-- AI for healthcare and social good
+## 🌟 Featured Projects
+
+### [ai_keystroke](https://github.com/Saronzeleke/ai_keystroke)
+AI/ML-based keystroke dynamics for biometric authentication.
+
+### [Splitter](https://github.com/Saronzeleke/Splitter)
+Python tool for advanced data splitting and ML pipeline automation.
+
+### Twitter Sentiment Analysis
+Deep learning solution for analyzing sentiment in Twitter data.
+
+### Crop Disease Detection
+AI-powered computer vision for identifying crop diseases from images.
+
+### [Amharic-MT](https://github.com/Saronzeleke/Amharic-MT)
+Amharic language machine translation using neural networks.
+
+### [Web-Scraping-with-Selenium](https://github.com/Saronzeleke/Web-Scraping-with-Selenium)
+Automated data collection with robust Selenium scripts.
+
+### Quality Control System
+End-to-end quality control management platform using AI and real-time analytics for manufacturing and service industries.
 
 ---
 
-### 📈 GitHub Stats
-![Saronzeleke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saronzeleke&show_icons=true&theme=radical)
+## 🏅 Certifications
 
-### 🏅 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saronzeleke&layout=compact&theme=radical)
-
----
-
-### 📫 Connect With Me
-- **Email:** sharonkuye369@gmail.com
-- **LinkedIn:** [Saronzeleke](https://www.linkedin.com/in/saronzeleke/)
+- Certified in Full Stack Development, AI/ML/DL Specialization, and more  
+- View all certificates: [LinkedIn Certifications](https://www.linkedin.com/in/saron-zeleke-b3a208318)
 
 ---
 
-### 💬 Let’s Collaborate!
-If you’re looking for an AI expert, ML engineer, or full-stack developer for your next project, feel free to reach out. Open to consulting, mentorship, and research collaborations.
+## 📫 Contact
+
+- **Email:** Sharonkuye369@gmail.com
+- **Phone:** +251929535765
+- **LinkedIn:** [www.linkedin.com/in/saron-zeleke-b3a208318](https://www.linkedin.com/in/saron-zeleke-b3a208318)
+- **GitHub:** [github.com/Saronzeleke](https://github.com/Saronzeleke)
 
 ---
 
-Thank you for visiting my profile! 😊
+> _See [all GitHub projects](https://github.com/search?q=user%3ASaronzeleke+is%3Apublic&sort=updated&order=desc) for a complete portfolio._
