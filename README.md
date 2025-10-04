@@ -1,4 +1,4 @@
-#Hell I'M  Saron Zeleke
+# Hello I'M  Saron Zeleke
 # Full Stack Developer | Software Engineer | AI/ML/DL Enthusiast
 
 **Location:** Addis Ababa, Ethiopia  
