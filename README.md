@@ -1,6 +1,6 @@
-#Hello I'm Saron Zeleke
+# Hello I'm Saron Zeleke
 
-**I'm Software Engineer|Full Stack Developer| AI/ML/DL enthusiast **
+**I'm Software Engineer|Full Stack Developer| AI/ML/DL enthusiast**
 
 ---
 
