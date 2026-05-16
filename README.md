@@ -1,12 +1,12 @@
-# Saron Zeleke
+#Hello I'm Saron Zeleke
 
-**Full Stack Developer| AI/ML/DL enthusiast**
+**I'm Software Engineer|Full Stack Developer| AI/ML/DL enthusiast **
 
 ---
 
 ## 👋 About Me
 
-Full Stack Developer and MAI/ML/DL enthusiast. Specialized in developing end-to-end solutions that scale across production environments. Proven expertise in building enterprise-grade applications with measurable business impact and delivering ML models that drive real-world value.
+Software Engineer,Full Stack Developer and MAI/ML/DL enthusiast. Specialized in developing end-to-end solutions that scale across production environments. Proven expertise in building enterprise-grade applications with measurable business impact and delivering ML models that drive real-world value.
 
 **Location:** Addis Ababa, Ethiopia
 
