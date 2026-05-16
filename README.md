@@ -1,12 +1,12 @@
 # Saron Zeleke
 
-**Full Stack Developer | Machine Learning Engineer | AI/ML/DL Specialist**
+**Full Stack Developer| AI/ML/DL enthusiast**
 
 ---
 
 ## 👋 About Me
 
-Full Stack Developer and Machine Learning Engineer with a strong foundation in artificial intelligence, deep learning, and modern software architecture. Specialized in developing end-to-end solutions that scale across production environments. Proven expertise in building enterprise-grade applications with measurable business impact and delivering ML models that drive real-world value.
+Full Stack Developer and MAI/ML/DL enthusiast. Specialized in developing end-to-end solutions that scale across production environments. Proven expertise in building enterprise-grade applications with measurable business impact and delivering ML models that drive real-world value.
 
 **Location:** Addis Ababa, Ethiopia
 
@@ -29,10 +29,10 @@ Full Stack Developer and Machine Learning Engineer with a strong foundation in a
 ### Core Competencies
 
 **Full Stack Development**
-- Frontend: React.js, Modern JavaScript/TypeScript, UI/UX Design, Responsive Architecture
-- Backend: Node.js, Express.js, RESTful & GraphQL APIs, Microservices
+- Frontend: React.js, Modern JavaScript/TypeScript, UI/UX Design, Responsive Architecture, next js
+- Backend: Node.js, Express.js, RESTful  APIs
 - Database Design: MySQL, PostgreSQL, Query Optimization, Data Warehousing
-- Deployment & Scaling: Docker, Kubernetes basics, Cloud Infrastructure
+- Deployment & Scaling: Docker
 
 **Machine Learning & AI**
 - Deep Learning Frameworks: TensorFlow, PyTorch, Keras
@@ -163,7 +163,7 @@ Comprehensive quality control management and anomaly detection platform integrat
 |----------|--------|
 | **Languages** | Python, JavaScript/TypeScript, SQL |
 | **ML/DL Frameworks** | TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM |
-| **Web Technologies** | React.js, Node.js, Express.js, GraphQL, REST APIs |
+| **Web Technologies** | React.js,nextjs, Node.js, Express.js, GraphQL, REST APIs |
 | **Databases & Storage** | MySQL, PostgreSQL, Redis, Data Warehousing |
 | **DevOps & Tools** | Git, GitHub Actions, Docker, Kubernetes basics, CI/CD |
 | **Specializations** | Biometric Systems, Predictive Analytics, Anomaly Detection, Fraud Detection, Recommendation Systems, Time Series Forecasting |
