@@ -72,7 +72,7 @@ I have hands-on experience developing full-stack applications, backend APIs, dat
 
 **Role:** Frontend Developer
 
-**Technologies:** React, TypeScript, Tailwind CSS
+**Technologies:** Next.js, TypeScript, Tailwind CSS
 
 ---
 
